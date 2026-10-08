@@ -1,0 +1,40 @@
+# Paul Day
+
+> Paul Day is a full stack software engineer and consultant based in Texas, available for local and remote projects. He builds ecommerce and SaaS web applications end to end: front end, back end, and DevOps. He is the creator of Badgerlytics, an AI-enabled analytics and experimentation platform.
+
+- Location: Texas, USA (also works remotely)
+- Focus: full stack web applications, headless ecommerce, SaaS platforms, analytics and experimentation
+- AI skills: AI agents, RAG pipelines, vector databases, embeddings, prompt engineering, AI-assisted coding, LLM integration (OpenRouter, Gemini), LLM tool calling, MCP (Model Context Protocol) servers, browser automation agents (Playwright), vision models, and LLM evals (regular LLM-as-a-judge evaluation of AI outputs for quality assurance)
+- Core skills: JavaScript, TypeScript, React, Next.js, Node.js, Fastify, GraphQL, PHP, Go, MySQL, PostgreSQL, MongoDB, Redis, ClickHouse, Tailwind CSS, Docker, Cloudflare Workers, Linux, Git
+- Also: graphic design, digital marketing, and project management
+
+## Featured project
+
+- [Badgerlytics](https://badgerlytics.com): AI-enabled analytics and experimentation SaaS platform with session replay, A/B testing, feature flags, and AI insights. Built as a monorepo with React, Next.js, and Tailwind CSS on the front end, a Node.js/Fastify API backed by MySQL with Drizzle ORM, and Redis with BullMQ for background jobs. Event ingestion runs on Cloudflare Workers with Hono, analytics data lives in ClickHouse, and it ships with an npm SDK and Chrome extension, deployed with Docker and GitLab CI. [Video walkthrough](https://www.youtube.com/watch?v=_LK_xsdRG0I)
+
+## Other projects
+
+- [Cart Drawer](https://youtu.be/o7j6Ciun30I): Ecommerce feature built with React, JavaScript, and Bit.dev.
+- [Checkout](https://youtu.be/0dFgi4EdXOA): Micro-frontend built with React, Next.js, Node.js, and Apollo GraphQL, with Apple Pay, PayPal, Authorize.net, Google Pay, and Affirm integrations.
+- [Cart Page](https://youtu.be/TiEropQyBVQ): Micro-frontend built with headless Magento 2, React, Next.js, Node.js, and Apollo GraphQL.
+- [White Label Billing](https://youtu.be/dWnLQZE1AIc): React, Node, and PHP application powered by the Stripe API and MySQL.
+- [Packing Slips Builder](https://youtu.be/XSQflUZiEwI): React, Node, and Go application with MySQL.
+- [QuickBooks Online and Desktop Integrations Manager](https://youtu.be/LTTPk8_4aLY): React and Node application using the QuickBooks Online API with MySQL.
+- [Enro](https://www.enro.com): Headless ecommerce rebuild with Node.js/Express, MongoDB, React, and Next.js, plus Braintree, BigCommerce, Contentful, and Shippo APIs, a Magento data migration, and ERP integrations.
+- [Foxcroft Collection](https://www.foxcroftcollection.com): Headless ecommerce rebuild on the same stack as Enro, including a redesigned cart, checkout, and homepage.
+- [World Central Kitchen](https://www.worldcentralkitchen.org): Site designed and built with React, Next.js, Node, and Express on the WordPress REST API.
+- [We Are Chefs: 2016 Annual Report](https://youtu.be/v7Caz3Jvjrk): Built with React, Sass, and Next.js.
+- [Dine-N-Dash](https://youtu.be/m3uiWKKJE4A): React event website with Node, the WordPress REST API, Stripe payments, and Mailchimp.
+- [DND Event Management Platform](https://youtu.be/v2Vm3Pqe4R4): Admin dashboard for attendees, sales, ticketing, and inventory built with React/Redux, Node, and MongoDB.
+- [The Apparel Group Catalog Management](https://youtu.be/9ybv47-oYkk): Angular 2 catalog management site with TypeScript, Node/Express, and MongoDB.
+- [Swolify](https://github.com/projectLifted/swolify): React fitness app prototype with Redux, Node, and MongoDB.
+- [Eventeral](https://github.com/pddigital/eventeral): AngularJS/MEAN platform for managing small free events.
+- [Twiser](https://github.com/pddigital/twiser2): AngularJS dashboard built on the Twitter API.
+- [DC Central Kitchen](https://dccentralkitchen.org): Responsive WordPress corporate website.
+
+## Contact
+
+- Email: mrpaulday@protonmail.com
+- LinkedIn: https://www.linkedin.com/in/paulmday
+- GitHub: https://github.com/pddigital
+- Medium: https://medium.com/@paulmday
